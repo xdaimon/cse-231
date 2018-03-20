@@ -1,0 +1,2 @@
+Parse all files from internet url to ensure that you'll pass hidden test
+I think he said in the video that a hidden test will come from some file from the url page.
